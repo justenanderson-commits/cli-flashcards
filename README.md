@@ -1,3 +1,4 @@
+![Flashcards animated gif](https://user-images.githubusercontent.com/104015966/195744304-69703fa2-0e67-4b21-9698-67c57ab8c440.gif)
 # Flaschcards Solo Project
 ## Abstract:
 This is a flashcards game that will be run in the command line interface (CLI). It cycles through 30 multiple-choice questions that the user can answer, then a final score of correct answers is offered at the end. 
