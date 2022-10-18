@@ -33,6 +33,7 @@ Working independently in the 1st weeks of Mod2 classes at Turing, I invested at 
 - VS Code
 - Chrome Browser/Dev tools
 - Zoom
+- JavaScript
 - Slack
 - Mocha
 - Chai
