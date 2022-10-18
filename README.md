@@ -11,8 +11,10 @@ This is a flashcards game that will be run in the command line interface (CLI). 
 4. Copy the SSH url provided by GitHub
 5. In the terminal, navigate to the new project repository
 6. Type git clone and paste the URL
-7. Type `node index.js` in the terminal
-8. Play the game by typing the number of your guess and pressing `enter`. A score will print to the CLI when all 30 questions have been answered.
+7. `cd` into the it
+8. Run `npm install`
+9. Run `node index.js`
+10. Play the game by typing the number of your guess and pressing `enter`. A score will print to the CLI when all 30 questions have been answered.
 
 ## Context:
 Working independently in the 1st weeks of Mod2 classes at Turing, I invested at least 25 - 30 hours to create this application's functionality from scratch using  Javascript. The Mocha framework and chai Library were used for testing.
